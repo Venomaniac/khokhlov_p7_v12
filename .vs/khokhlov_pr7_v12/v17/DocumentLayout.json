@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Superkomp\\Desktop\\khokhlov_pr7_v12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81F5A4ED-D171-46AA-87B4-4C6FFFF699AD}|khokhlov_pr7_v12\\khokhlov_pr7_v12.vcxproj|C:\\Users\\Superkomp\\Desktop\\khokhlov_pr7_v12\\khokhlov_pr7_v12\\khokhlov_pr7_v12.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{81F5A4ED-D171-46AA-87B4-4C6FFFF699AD}|khokhlov_pr7_v12\\khokhlov_pr7_v12.vcxproj|solutionrelative:khokhlov_pr7_v12\\khokhlov_pr7_v12.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "khokhlov_pr7_v12.cpp",
+              "DocumentMoniker": "C:\\Users\\Superkomp\\Desktop\\khokhlov_pr7_v12\\khokhlov_pr7_v12\\khokhlov_pr7_v12.cpp",
+              "RelativeDocumentMoniker": "khokhlov_pr7_v12\\khokhlov_pr7_v12.cpp",
+              "ToolTip": "C:\\Users\\Superkomp\\Desktop\\khokhlov_pr7_v12\\khokhlov_pr7_v12\\khokhlov_pr7_v12.cpp",
+              "RelativeToolTip": "khokhlov_pr7_v12\\khokhlov_pr7_v12.cpp",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAAAJwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-01T05:32:37.506Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

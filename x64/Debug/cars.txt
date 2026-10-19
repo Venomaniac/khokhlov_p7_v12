@@ -1,0 +1,4 @@
+A123BC;Ivanov;Toyota Camry;Oil replace;3500;Complete
+B456DE;Petrov;BMW X5;Engine repair;25000;In work
+C789FG;Sidorov;Kia Rio;Tire montage;1500;Waiting
+D321HK;Kuznetsov;Ford Focus;Diagnostic;2000;Complete

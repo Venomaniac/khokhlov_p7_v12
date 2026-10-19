@@ -1,0 +1,7 @@
+﻿  khokhlov_pr7_v12.cpp
+C:\Users\Superkomp\Desktop\khokhlov_pr7_v12\khokhlov_pr7_v12\khokhlov_pr7_v12.cpp(37,21): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Superkomp\Desktop\khokhlov_pr7_v12\khokhlov_pr7_v12\khokhlov_pr7_v12.cpp(42,28): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Superkomp\Desktop\khokhlov_pr7_v12\khokhlov_pr7_v12\khokhlov_pr7_v12.cpp(47,28): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Superkomp\Desktop\khokhlov_pr7_v12\khokhlov_pr7_v12\khokhlov_pr7_v12.cpp(52,28): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Superkomp\Desktop\khokhlov_pr7_v12\khokhlov_pr7_v12\khokhlov_pr7_v12.cpp(57,28): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  khokhlov_pr7_v12.vcxproj -> C:\Users\Superkomp\Desktop\khokhlov_pr7_v12\x64\Debug\khokhlov_pr7_v12.exe
